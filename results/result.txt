@@ -1,0 +1,21 @@
+Test
+RMSprop 1e-2 , epoch-200 loss-0.11537820845842361 (완료)
+
+RMSprop 1e-3 , epoch-230 loss-0.034758422523736954 (완료)
+
+RMSprop 1e-4 , epoch-210 loss-0.02770940586924553 (완료) 
+
+RMSprop 1e-5 , epoch-250 loss-0.0729459673166275 (완료)
+
+Adam 1e-2 epoch-210 loss-0.04514859989285469 (완료)
+
+Adam 1e-3 epoch-299 loss-0.029293270781636238 (완료)
+
+Adam 1e-4 epoch-290 loss-0.028625909239053726 (시원)
+Adam 1e-5 epoch-220 loss-0.07275363802909851 (시원)
+
+SGDmomentum_1e-4, epoch-280 loss-0.1332508623600006 (완료)
+
+SGDmomentum_1e-5, epoch-220 loss-0.31138333678245544 (완료)
+
+SGDmomentum_1e-3, epoch-150 loss-0.0594639778137207 (완료)
